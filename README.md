@@ -1,6 +1,6 @@
 # C - Binary trees
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMiRPfy3-GF4zdaTt2mA0CUQdsWH_6GwId7Q&usqp=CAU" width="1500" height="350">
+<img src= "https://www.bing.com/images/search?view=detailV2&ccid=4KlUktqR&id=ACC8ECE12B6EDD66FF1C28E5563D60E8FFBE9E52&thid=OIP.4KlUktqRZYzm8BGaevEakgHaHa&mediaurl=https%3a%2f%2fcdn0.iconfinder.com%2fdata%2ficons%2fdata-visualization-1%2f64%2fbinary-tree-diversity-data-512.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e0a95492da91658ce6f0119a7af11a92%3frik%3dUp6%252b%252f%252bhgPVblKA%26pid%3dImgRaw%26r%3d0&exph=512&expw=512&q=Binary+Tree+Icon&simid=608053643231373729&FORM=IRPRST&ck=19D9E32FE78B952B03C8A3E89A5AFD42&selectedIndex=2" width="1500" height="350">
 
 # Requirements
 - Allowed editors: vi, vim, emacs
